@@ -7,3 +7,5 @@ Broken down into 4 parts
 4. The data should automatically be replicated, so there is never a single point of failure.  
 
 Implemented in 3 languages: C++, Java, Python
+
+
